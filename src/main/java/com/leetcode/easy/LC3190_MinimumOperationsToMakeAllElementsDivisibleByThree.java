@@ -1,6 +1,6 @@
 package com.leetcode.easy;
 
-public class LC_3190 {
+public class LC3190_MinimumOperationsToMakeAllElementsDivisibleByThree {
     public int minimumOperations(int[] nums) {
         int res = 0;
         for (int num : nums) {
